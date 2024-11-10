@@ -1,4 +1,4 @@
-import './App.css'
+import './App.css';
 
 function App() {
 
@@ -6,7 +6,10 @@ function App() {
     <>
       Hello
     </>
-  )
+  );
 }
 
-export default App
+export default App;
+
+// React + Tailwind + DaisyUI + Redux Toolkit + React Redux + React Hot Toast + React Icons 
+// SimpleImportSort + AutoSemiColon + React Router DOM 
